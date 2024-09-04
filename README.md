@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ### Usage
 
 - Configure Parameters: Adjust the parameters in the UI.
-- Run the Tool: Execute the main script to perform the RF propagation simulation.
+- Run the Tool: Execute the app.py script to perform the RF propagation simulation.
 
 ```bash
 streamlit run app.py
